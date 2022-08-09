@@ -1,0 +1,151 @@
+body{
+    background-color: aqua;
+}
+.first{
+    border: palevioletred solid 10px ;
+    text-align: center;
+    border-radius: 20px 60px 40px 80px;
+    width: 300px;
+    height: 250px;
+    padding: 20px;
+    background-color: palevioletred;
+}
+.test1{
+    border: 2px solid;
+    width: 100px;
+    height: 100px;
+    text-align: center;
+}
+.test2{
+    border: 2px dotted;
+    width: 100px;
+    height: 100px;
+    text-align: center;
+}
+.test3{
+    border: 2px dashed;
+    width: 100px;
+    height: 100px;
+    text-align: center;
+}
+.test4{
+    border: 2px double;
+    width: 100px;
+    height: 100px;
+    text-align: center;
+}
+.test5{
+    border: 2px groove;
+    width: 100px;
+    height: 100px;
+    text-align: center;
+}
+.test6{
+    border: 2px ridge;
+    width: 100px;
+    height: 100px;
+    text-align: center;
+}
+.test7{
+    border: 2px inset;
+    width: 100px;
+    height: 100px;
+    text-align: center;
+}
+.test8{
+    border: 2px outset;
+    width: 100px;
+    height: 100px;
+    text-align: center;
+}
+span{
+    color: red;
+    border-color: white;
+}
+#name{
+    color: white;
+    border: 5px solid;
+    border-radius: 20px;
+    background-color: darkblue;
+}
+.h5{
+    border: 2px solid blue;
+    background-color:darkblue;
+    width: 100px;
+    height: 100px;
+    text-align: center;
+    border-radius: 20px;
+}
+.h6{
+    color:darkblue;
+}
+.h8{
+    border: 2px solid blue;
+    background-color: darkblue;
+    width: 100px;
+    height: 100px;
+    text-align: center;
+    border-radius: 40px;
+}
+.h7{
+    color:darkblue;
+}
+.h9{
+    color:darkblue;
+}
+.a1{
+    border: 2px solid blue;
+    background-color: darkblue;
+    width: 100px;
+    height: 100px;
+    text-align: center;
+    border-top-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+}
+.a2{
+    border: 2px solid blue;
+    background-color: darkblue;
+    width: 100px;
+    height: 100px;
+    text-align: center;
+    border-top-left-radius: 100px;
+    
+}
+.a3{
+    color:darkblue;
+}
+.a4{
+    border: 2px solid blue;
+    background-color: darkblue;
+    width: 100px;
+    height: 100px;
+    text-align: center;
+    border-radius: 10px;
+}
+.a5{
+    color:darkblue;
+}
+.a6{
+    border: 2px solid blue;
+    background-color: darkblue;
+    width: 100px;
+    height: 100px;
+    text-align: center;
+    border-top-left-radius: 80px;
+    border-bottom-right-radius: 80px;
+}
+.a7{
+    color:darkblue;
+}
+.a8{
+    border: 2px solid blue;
+    background-color: darkblue;
+    width: 100px;
+    height: 100px;
+    text-align: center;
+    border-top-left-radius: 50px;
+    border-top-right-radius: 50px;
+}
+.a9{
+    color:darkblue;
+}
